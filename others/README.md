@@ -27,3 +27,5 @@
 - `inode`: A uniquely existing number of all the files in a system. When a file is created, it's assigned an inode number and its name
 
 - `journalctl -b`: View system logs
+
+- `mtu(maximum transmission unit)`: The largest packet that can be sent over a network
